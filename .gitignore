@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# Build files
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+
+# Visual Studio generated
+*.VC.db
+*.VC.opendb
+*.user
+
+# Project generated folders
+CarRentalManagementSystem/Debug/
+CarRentalManagementSystem/Release/
+CarRentalManagementSystem/x64/
+
+# Runtime data
+Samochody.txt
+Klient.txt
+Pracownik.txt
